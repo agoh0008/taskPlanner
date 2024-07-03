@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# taskPlanner
+# taskPlanner <img src="man/figures/logo.png" align="right" height="100" />
 
 <!-- badges: start -->
 
@@ -14,6 +14,8 @@ robust system for organizing to-do lists. With tools for adding,
 removing, and updating items, filtering tasks by date and priority, as
 well as real-time task tracking, users can leverage these features to
 optimize workflow and productivity.
+
+This repository contains the work and materials for Assignments 1 and 3 of the ETC5450 unit (Advanced R Programming).
 
 ## Installation
 
